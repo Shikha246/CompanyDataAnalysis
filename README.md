@@ -32,7 +32,7 @@ This project demonstrates the power of interactive visualizations using Power BI
 ---
 
 ### 3. **Executive Dashboard**  
-![Executive Dashboard](./path/to/Executive_Dashboard.png)  
+![Executive Dashboard](images/ExecutiveDashboard.png)  
    - **Description**:  
      A high-level summary of critical business KPIs, revenue trends, and performance comparisons.  
    - **Interactive Features**:  
@@ -45,7 +45,7 @@ This project demonstrates the power of interactive visualizations using Power BI
 ---
 
 ### 4. **Map Visualization**  
-![Map](./path/to/Map.png)  
+![Map](images/Map.png)  
    - **Description**:  
      A geospatial analysis of customer and sales data, visualized on an interactive map.  
    - **Interactive Features**:  
