@@ -8,7 +8,7 @@ This project demonstrates the power of interactive visualizations using Power BI
 ## Key Interactive Visualizations  
 
 ### 1. **Customer Details**  
-![Customer Details](./path/to/Customer_Details.png)  
+![Customer Details](./path/to/images/Customer_Details.png)  
    - **Description**:  
      An interactive dashboard showcasing customer demographics, purchase behavior, and revenue insights.  
    - **Interactive Features**:  
