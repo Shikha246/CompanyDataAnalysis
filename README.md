@@ -15,7 +15,7 @@ This project demonstrates the power of interactive visualizations using Power BI
      - Dynamic filters and slicers for segmenting customers by income level and occupation.  
      - Interactive charts displaying orders by income level and occupation.
       - A sortable table of the top 100 customers by revenue and order count.
-     -A trend line chart visualizing customer revenue from 2020 to 2022.  
+      -A trend line chart visualizing customer revenue from 2020 to 2022.  
    - **Use Case**:  
      Identify top-performing customer segments and develop targeted marketing strategies.  
 
