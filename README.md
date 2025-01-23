@@ -8,7 +8,7 @@ This project demonstrates the power of interactive visualizations using Power BI
 ## Key Interactive Visualizations  
 
 ### 1. **Customer Details**  
-![Customer Details](images/Customer Details.png)  
+![Customer Details](images/CustomerDetails.png)  
    - **Description**:  
      An interactive dashboard showcasing customer demographics, purchase behavior, and revenue insights.  
    - **Interactive Features**:  
@@ -20,7 +20,7 @@ This project demonstrates the power of interactive visualizations using Power BI
 ---
 
 ### 2. **Decomposition Tree**  
-![Decomposition Tree](./path/to/Decomposition_Tree.png)  
+![Decomposition Tree](images/DecompositionTree.png)  
    - **Description**:  
      A hierarchical breakdown of key metrics like revenue or churn contributors.  
    - **Interactive Features**:  
