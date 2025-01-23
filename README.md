@@ -22,14 +22,24 @@ This project demonstrates the power of interactive visualizations using Power BI
 ---
 
 ### 2. **Decomposition Tree**  
-![Decomposition Tree](images/DecompositionTree.png)  
-   - **Description**:  
-     A hierarchical breakdown of key metrics like revenue or churn contributors.  
-   - **Interactive Features**:  
-     - Click to expand nodes and drill into specific contributors to performance metrics.  
-     - Real-time recalculations based on user-selected branches.  
-   - **Use Case**:  
-     Quickly pinpoint key drivers of business performance or areas requiring immediate attention.  
+ 
+  ## Product Return Analysis
+
+This section details the analysis of product returns using a Power BI Decomposition Tree.
+
+![Decomposition Tree of Product Returns](images/DecompositionTree.png) **Description:**
+
+A Power BI decomposition tree visualizing the hierarchical breakdown of total returns by product category, subcategory, and individual product. This visual allows users to understand the contribution of each product category and subcategory to the overall returns.
+
+**Interactive Features:**
+
+*   Click to expand nodes to drill down from product category to subcategory and then to individual products, revealing the returns associated with each level.
+*   The visual dynamically recalculates and adjusts the branches based on user interaction, showing the proportional contribution of each element to the total returns.
+*   Tooltips display detailed information about the returns for each category, subcategory, and product upon hover.
+
+**Use Case:**
+
+Quickly identify product categories, subcategories, or specific products with the highest return rates. This allows businesses to pinpoint potential issues with product quality, shipping, or customer satisfaction and prioritize areas requiring immediate attention or further investigation. For example, by exploring the tree, one can easily see if a specific subcategory within "Accessories" or a particular "Tires and Tubes" product is driving a disproportionate number of returns.
 
 ---
 
