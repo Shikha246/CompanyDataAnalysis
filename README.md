@@ -10,10 +10,12 @@ This project demonstrates the power of interactive visualizations using Power BI
 ### 1. **Customer Details**  
 ![Customer Details](images/CustomerDetails.png)  
    - **Description**:  
-     An interactive dashboard showcasing customer demographics, purchase behavior, and revenue insights.  
+     A Power BI dashboard providing a comprehensive view of customer data, including demographics (income level, occupation), purchase behavior (orders), and revenue insights (revenue per customer, top customer revenue, revenue trends). 
    - **Interactive Features**:  
-     - Dynamic filters and slicers for segmenting customers based on demographics or purchase history.  
-     - Drill-through capabilities to explore individual customer data.  
+     - Dynamic filters and slicers for segmenting customers by income level and occupation.  
+     - Interactive charts displaying orders by income level and occupation.
+      - A sortable table of the top 100 customers by revenue and order count.
+     -A trend line chart visualizing customer revenue from 2020 to 2022.  
    - **Use Case**:  
      Identify top-performing customer segments and develop targeted marketing strategies.  
 
